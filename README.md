@@ -63,9 +63,7 @@ Make sure the following folders/file are/is writable:
 
 * /storage
 
-
 Then follow the simple instructions in the install script.
-
 For more details go to <link>https://www.coastercms.org/documentation/developer-documentation</link>
 
 <a name="item3"></a>
@@ -79,5 +77,3 @@ If you'd rather add Coaster CMS to an existing Laravel (v8) project, follow the 
 4. Add the provider CoasterCms\Providers\CoasterRoutesProvider::class to your config/app.php file (near end as it registers a catch-all route)
 5. Go to a web browser and follow the install script that should have appeared
 6. Upload or create a theme
-
-
